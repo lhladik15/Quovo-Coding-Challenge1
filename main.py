@@ -59,7 +59,7 @@ for element in root[0]:
     for child in element:
         # Some elements have sub-elements
         fieldnames.append(child.tag.replace("{http://www.sec.gov/edgar/document/thirteenf/informationtable}", ""))
-    # (Sorry for the long lines)
+
 
 # Open tab-delimited CSV writing and write table headings
 
