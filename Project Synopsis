@@ -1,0 +1,1 @@
+Python code that parses fund holdings pulled from the SEC website EDGAR, given a ticker or CIK, and generates a .tsv file from them (i.e., obtain valuable financial information for investors).
